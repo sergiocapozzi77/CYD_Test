@@ -1,3 +1,6 @@
 [submodule "platformio-espressif32-sunton"]
 	path = platformio-espressif32-sunton
 	url = https://github.com/rzeldent/platformio-espressif32-sunton.git
+[submodule "boards"]
+	path = boards
+	url = https://github.com/rzeldent/platformio-espressif32-sunton.git
